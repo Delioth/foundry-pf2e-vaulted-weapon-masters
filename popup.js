@@ -31,7 +31,7 @@ Hooks.once('ready', async function () {
 
                 content: `
                 <p>
-								Thank you for purchasing Eldritch Archetypes: Vaulted Weapon Masters by Braden "Delioth" Menke, Marcy, Matthew "comatthew6" Fu, and the rest of Eldritch Osiris Games!
+								Thank you for purchasing Eldritch Archetypes: Vaulted Weapon Masters by Dylan Wojeck, Marceline Miller, Braden Menke, Matthew Fu, and the rest of Eldritch Osiris Games!
 								</p>
 								<p>For a summary of your new content click the Introduction button below</p>
 								<p>
