@@ -1,6 +1,6 @@
 {
   "title": "PF2e Vaulted Weapon Masters",
-  "id": "pf2e-vault-weapon-masters",
+  "id": "pf2e-vaulted-weapon-masters",
   "description": "",
   "authors": [
     {
@@ -13,10 +13,10 @@
       "name": "Matthew 'comatthew6' Fu"
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/Eldritch-Osiris-Games/foundry-pf2e-vault-weapon-masters/main/module.json",
-  "download": "https://github.com/Eldritch-Osiris-Games/foundry-pf2e-vault-weapon-masters/archive/refs/heads/main.zip",
-  "url": "https://github.com/Eldritch-Osiris-Games/foundry-pf2e-vault-weapon-masters",
-  "version": "1.0.0",
+  "manifest": "https://raw.githubusercontent.com/Eldritch-Osiris-Games/foundry-pf2e-vaulted-weapon-masters/main/module.json",
+  "download": "https://github.com/Eldritch-Osiris-Games/foundry-pf2e-vaulted-weapon-masters/archive/refs/heads/main.zip",
+  "url": "https://github.com/Eldritch-Osiris-Games/foundry-pf2e-vaulted-weapon-masters",
+  "version": "0.9.0",
   "compatibility": {
     "minimum": "10",
     "verified": "10",
@@ -26,7 +26,7 @@
     "popup.js"
   ],
   "flags": {
-    "pf2e-vault-weapon-masters": {
+    "pf2e-vaulted-weapon-masters": {
       "pf2e-homebrew": {
         "baseWeapons": {
           "reinforced-fishing-rod": "Reinforced Fishing Rod"
@@ -44,29 +44,29 @@
     {
       "label": "Vaulted Weapon Masters Items",
       "type": "Item",
-      "name": "vault-weapon-masters-items",
-      "path": "./packs/vault-weapon-masters-items.db",
+      "name": "vaulted-weapon-masters-items",
+      "path": "./packs/vaulted-weapon-masters-items.db",
       "system": "pf2e"
     },
     {
       "label": "Vaulted Weapon Masters Feats",
       "type": "Item",
-      "name": "vault-weapon-masters-feats",
-      "path": "./packs/vault-weapon-masters-feats.db",
+      "name": "vaulted-weapon-masters-feats",
+      "path": "./packs/vaulted-weapon-masters-feats.db",
       "system": "pf2e"
     },
     {
       "label": "Vaulted Weapon Masters Effects & Actions",
       "type": "Item",
-      "name": "vault-weapon-masters-effects-actions",
-      "path": "./packs/vault-weapon-masters-effects-actions.db",
+      "name": "vaulted-weapon-masters-effects-actions",
+      "path": "./packs/vaulted-weapon-masters-effects-actions.db",
       "system": "pf2e"
     },
     {
       "label": "Vaulted Weapon Masters Journals",
       "type": "JournalEntry",
-      "name": "vault-weapon-masters-journals",
-      "path": "./packs/vault-weapon-masters-journals.db",
+      "name": "vaulted-weapon-masters-journals",
+      "path": "./packs/vaulted-weapon-masters-journals.db",
       "system": "pf2e"
     }
   ],
