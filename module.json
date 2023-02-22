@@ -19,7 +19,7 @@
   "manifest": "https://raw.githubusercontent.com/Eldritch-Osiris-Games/foundry-pf2e-vaulted-weapon-masters/main/module.json",
   "download": "https://github.com/Eldritch-Osiris-Games/foundry-pf2e-vaulted-weapon-masters/archive/refs/heads/main.zip",
   "url": "https://github.com/Eldritch-Osiris-Games/foundry-pf2e-vaulted-weapon-masters",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "compatibility": {
     "minimum": "10",
     "verified": "10",
